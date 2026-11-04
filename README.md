@@ -5,7 +5,7 @@ Reporting Period: July 11, 2018 - December 30, 2024
 
 Key Insight
 
-Users are typically satisfied with the Shopify App leaving an Average Review Rating of 4.2 rating out of 5. The volume of Total Reviews (7.98K), suggest Users are engaged and interested in what Apps have to offer and the (24.8%) Developer Reply Rate implies Developers are interest in User Opinions and feedback considering the Average Review Rating of (4.2/5). 
+Users are typically satisfied with the Shopify App leaving an Average Review Rating of 4.2 rating out of 5. The volume of Total Reviews (7.98K), suggest Users are engaged and interested in what Apps have to offer and the (24.8%) Developer Reply Rate could imply Developers don't have many negative reviews and the business is doing well or Developer responsiveness needs to improve.
 
 Business Impact
 
